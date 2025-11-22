@@ -1,0 +1,5 @@
+{
+  "name": "AutoCap: AI 影片字幕產生器",
+  "description": "支援 YouTube 連結與本地上傳。自動使用 Gemini 2.5 Flash AI 生成雙語字幕（英翻中），並提供嵌入字幕影片下載功能。",
+  "requestFramePermissions": []
+}
